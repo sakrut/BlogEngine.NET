@@ -7,6 +7,9 @@ Date        Author      Description
 02/12/2008  rtur.net
 14/03/2011  CreepinJesus    Updated comment links for use with Disqus
 ****************************************************************************/
+
+using BlogEngine.Core.Services.Syndication.RssHelp;
+
 namespace BlogEngine.Core
 {
     using BlogEngine.Core.Data.Services;
@@ -215,13 +218,13 @@ namespace BlogEngine.Core
 
         static string RssDateString(DateTime pubDate)
         {
-            pubDate = BlogSettings.Instance.FromUtc(pubDate);
-
+            pubDate = BlogSettings.Instance.ToUtc(pubDate);
+            return Rfc822DateTime.ToString(pubDate);
             // get a timezone from local time (won't work with UTC)
-            var zone = DateTime.Now.ToString("zzzz").Replace(":", "");
-
-            var value = pubDate.ToString("ddd',' d MMM yyyy HH':'mm':'ss") + " " + zone;
-            return value;
+            //var zone = DateTime.Now.ToString("zzzz").Replace(":", "");
+            //
+            //var value = pubDate.ToString("ddd',' d MMM yyyy HH':'mm':'ss") + " " + zone;
+            //return value;
         }
 
         /// <summary>

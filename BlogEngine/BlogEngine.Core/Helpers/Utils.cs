@@ -1148,6 +1148,7 @@
                 OnEmailFailed(message);
 
                 errorMsg.Append("Error sending email in SendMailMessage: ");
+                
                 Exception current = ex;
 
                 while (current != null)

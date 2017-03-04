@@ -271,6 +271,7 @@
     <Compile Include="Providers\XmlProvider\PingServices.cs" />
     <Compile Include="Helpers\SavedEventArgs.cs" />
     <Compile Include="Services\Search\Search.cs" />
+    <Compile Include="Services\Syndication\RssHelp\Rfc822DateTime.cs" />
     <Compile Include="Services\Syndication\SyndicationFormat.cs" />
     <Compile Include="Web\BlogCulture.cs" />
     <Compile Include="Web\Controls\ExtensionAttribute.cs" />
