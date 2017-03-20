@@ -2,6 +2,7 @@
     var root = BlogEngineRes.applicationWebRoot + 'scripts/syntaxhighlighter/scripts/';
     SyntaxHighlighter.autoloader(
         'applescript            ' + root + 'shBrushAppleScript.js',
+        'cypher                    ' + root + 'shBrushCypher.js', 
         'actionscript3 as3      ' + root + 'shBrushAS3.js',
         'bash shell             ' + root + 'shBrushBash.js',
         'coldfusion cf          ' + root + 'shBrushColdFusion.js',
