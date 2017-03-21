@@ -1,0 +1,48 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 2017-02-22 18:35:47
+Package Installer: replacing in D:\home\site\wwwroot\Custom\Themes\DarkStar\site.master from /themes to /Custom/Themes
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 2017-02-22 18:35:48
+Installed package DarkStar by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 2017-02-22 19:27:55
+Installed package TwitterTimeline by admin
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 2017-02-26 11:21:23
+Error sending email in SendMailMessage:  The operation has timed out.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 2017-02-26 11:21:26
+Error sending email in SendMailMessage:  The operation has timed out.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 2017-02-26 11:24:41
+Error sending email in SendMailMessage:  The operation has timed out.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 2017-02-26 11:24:42
+Error sending email in SendMailMessage:  The operation has timed out.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 2017-02-26 11:24:43
+Error sending email in SendMailMessage:  The operation has timed out.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 2017-02-26 11:26:33
+Error sending email in SendMailMessage:  The operation has timed out.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 2017-02-26 11:33:25
+Error sending email in SendMailMessage:  The operation has timed out.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 2017-02-26 11:33:32
+Error sending email in SendMailMessage:  The operation has timed out.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 2017-02-26 11:34:57
+Error sending email in SendMailMessage:  The operation has timed out.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 2017-02-26 11:35:45
+Error sending email in SendMailMessage:  The operation has timed out.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 2017-02-26 11:35:48
+Error sending email in SendMailMessage:  The operation has timed out.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 26.02.2017 13:36:50
+Error sending email in SendMailMessage:  Upłynął limit czasu operacji.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Data: 26.02.2017 13:37:17
+Error sending email in SendMailMessage:  Upłynął limit czasu operacji.
