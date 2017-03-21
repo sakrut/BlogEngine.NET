@@ -1580,6 +1580,7 @@
     <Content Include="Scripts\syntaxhighlighter\scripts\shBrushRuby.js" />
     <Content Include="Scripts\syntaxhighlighter\scripts\shBrushSass.js" />
     <Content Include="Scripts\syntaxhighlighter\scripts\shBrushScala.js" />
+    <Content Include="Scripts\syntaxhighlighter\scripts\shBrushCypher.js" />
     <Content Include="Scripts\syntaxhighlighter\scripts\shBrushSql.js" />
     <Content Include="Scripts\syntaxhighlighter\scripts\shBrushVb.js" />
     <Content Include="Scripts\syntaxhighlighter\scripts\shBrushXml.js" />

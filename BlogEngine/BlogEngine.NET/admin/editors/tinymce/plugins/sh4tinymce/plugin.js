@@ -43,7 +43,7 @@ tinymce.PluginManager.add('sh4tinymce', function(editor,url) {
 		// List languages
 		var languageItems = [
 				{ text: 'Language', value: '' },
-                { text: 'Cypher', value: 'cypher' },
+                {text: 'Cypher',        value: 'cypher' },
 				{text: 'ActionScript3',	value: 'as3'},
 				{text: 'Bash/shell',	value: 'bash'},
 				{text: 'ColdFusion',	value: 'cf'},

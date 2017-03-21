@@ -18,16 +18,17 @@
 		    'OPTIONAL OR ORDER PERIODIC PROFILE REMOVE RETURN SCAN SET SKIP START STARTS THEN TRUE ' +
 		    'UNION UNIQUE UNWIND USING WHEN WHERE WITH XOR';
 
-		var operators = '( ) , = : + - * / % ^ &lt;&gt; &lt; &gt; &lt;= &gt;= =~';
+		var operators = '\\( \\) \\, \\= \\: \\+ \\- \\* \\/ \\% \\^ &lt;&gt; &lt; &gt; &lt;= &gt;= =~';
 
 		this.regexList = [
-			{ regex: /--(.*)$/gm,                                               css: 'comments' },   // one line comments
-			{ regex: /\/\*([^\*][\s\S]*?)?\*\//gm,                              css: 'comments' },   // multi line comments
-			{ regex: SyntaxHighlighter.regexLib.multiLineDoubleQuotedString,    css: 'string' },     // double quoted strings
-			{ regex: SyntaxHighlighter.regexLib.multiLineSingleQuotedString,    css: 'string' },     // single quoted strings
-			{ regex: new RegExp(this.getKeywords(funcs), 'gmi'),                css: 'color2' },     // functions
-			{ regex: new RegExp(this.getKeywords(operators), 'gmi'),            css: 'color1' },     // operators and such
-			{ regex: new RegExp(this.getKeywords(keywords), 'gmi'),             css: 'keyword' }     // keyword
+			{ regex: /--(.*)$/gm,                                               css: 'comments' },   // 
+			{ regex: /\/\*([^\*][\s\S]*?)?\*\//gm,                              css: 'comments' },   // 
+            { regex: /:(\w+)(?!\w)/gm, css: 'value' },   // Type
+			{ regex: SyntaxHighlighter.regexLib.multiLineDoubleQuotedString,    css: 'string' },     // 
+			{ regex: SyntaxHighlighter.regexLib.multiLineSingleQuotedString,    css: 'string' },     // 
+			{ regex: new RegExp(this.getKeywords(funcs), 'gmi'),                css: 'color2' },     // 
+			{ regex: new RegExp(this.getKeywords(operators), 'gmi'),            css: 'color1' },     // 
+			{ regex: new RegExp(this.getKeywords(keywords), 'gmi'),             css: 'keyword' }     // 
 			];
 	};
 
