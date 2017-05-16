@@ -807,7 +807,9 @@
     <Content Include="Custom\Themes\Standard\src\fonts\fontawesome-webfont.woff2" />
     <Content Include="Custom\Themes\Standard\src\fonts\FontAwesome.otf" />
     <None Include="Properties\PublishProfiles\speedDev.pubxml" />
+    <None Include="Properties\PublishProfiles\SpeedyDev - FTP %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\SpeedyDev - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\SpeedyDev - Web Deploy %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\SpeedyDev - Web Deploy.pubxml">
       <SubType>Designer</SubType>
     </None>
